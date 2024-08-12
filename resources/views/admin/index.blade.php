@@ -10,10 +10,40 @@
         </span> Welcome to Admin Page Dear/ <b>{{ $auth_user }}</b>
       </h3>
 
-      
 
-    </div> 
+      <!-- //tampilkan semua fitur tampilan homepage user -->
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb
+        <li class="breadcrumb-item active" aria-current="page">
+          <span></span>Overview
+          <i class="mdi mdi-alert-circle-outline icon-sm text-primary align-middle"></i>
+        </li>
+      </ol>
+    </nav>
   </div>
-  </div>
+       
+       
 
 @endsection
+      
+      
+      
+       
+       
+
+    
+       
+
+   
+
+
+      
+
+        
+
+
+
+
+
+      
+
